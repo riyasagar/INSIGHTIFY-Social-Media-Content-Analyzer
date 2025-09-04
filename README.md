@@ -1,4 +1,4 @@
-# INSIGHTIFY - Social Media Content Analyzer
+# 🎯INSIGHTIFY - Social Media Content Analyzer
 
 **INSIGHTIFY** is a powerful web application built with **React + Vite** that helps users analyze and optimize social media content before sharing. Its goal is to simplify content evaluation while providing meaningful insights to improve audience engagement.
 
@@ -49,12 +49,12 @@ cd INSIGHTIFY-Social-Media-Content-Analyzer
 ```
 2. **Install dependencies**
 
-npm install
+    npm install
 
 
 3. **Run the development server**
 
-npm run dev
+   npm run dev
 
 
 4. Open http://localhost:5173 in your browser.
@@ -75,7 +75,7 @@ npm run dev
 
 3. Click Deploy. Your project will be live with a URL like:
 
-https://insightify-social-media-content-analyzer.vercel.app
+   https://insightify-social-media-content-analyzer.vercel.app
 
 
 ## 📄 License
