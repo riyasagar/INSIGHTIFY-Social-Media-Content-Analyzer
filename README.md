@@ -1,6 +1,6 @@
 # 🎯INSIGHTIFY - Social Media Content Analyzer
 
-**INSIGHTIFY** is a powerful web application built with **React + Vite** that helps users analyze and optimize social media content before sharing. Its goal is to simplify content evaluation while providing meaningful insights to improve audience engagement.
+**INSIGHTIFY** is a powerful AI powered web application built with **React + Vite** that helps users analyze and optimize social media content before sharing. Its goal is to simplify content evaluation while providing meaningful insights to improve audience engagement.
 
 The app allows content to be uploaded easily through a **drag-and-drop interface** or standard file selection, making it user-friendly and flexible.  
 
